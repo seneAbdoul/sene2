@@ -23,6 +23,10 @@ public class Main1 {
                 System.out.println("Cette filiere existe déjà");
                 System.out.println("Cette filiere existe déjà");
                 System.out.println("Cette filiere existe déjà");
+                 System.out.println("Cette filiere existe déjà");
+                System.out.println("Cette filiere existe déjà");hqsfuuqfsuytqfysh
+                System.out.println("Cette filiere existe déjà");
+                System.out.println("Cette filiere existe déjà");
             }
         } catch (Exception e) {
             System.out.println(e);
