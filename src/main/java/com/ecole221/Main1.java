@@ -16,8 +16,10 @@ public class Main1 {
             if(!filiereService.findFiliereByLibelle(libelle)){
                 // insertion de la filiere
                 filiereService.addFiliere(libelle);
+                
             }
             else{
+                System.out.println("Cette filiere existe déjà");
                 System.out.println("Cette filiere existe déjà");
             }
         } catch (Exception e) {
