@@ -60,6 +60,7 @@ public class Main2 {
             }
             else{
                 System.out.println("Cette classe existe déjà");
+                System.out.println("Cette classe existe déjà zefsdgjhklj");
               }
         } catch (Exception e) {
             System.out.println(e);
