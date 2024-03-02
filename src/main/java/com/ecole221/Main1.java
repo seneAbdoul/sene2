@@ -20,6 +20,7 @@ public class Main1 {
             }
             else{
                 System.out.println("Cette filiere existe déjà");
+                System.out.println("Cette filiere ytytuuu existe déjà");
             }
         } catch (Exception e) {
             System.out.println(e);
