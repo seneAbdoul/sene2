@@ -22,6 +22,7 @@ public class Main2 {
             int frais_inscription = 0;
             do {
                 System.out.println("Saisir les frais d'inscription de la classe");
+                System.out.println("Saisir les frais d'inscription de la classe");
                 frais_inscription = sc.nextInt();
              } while (frais_inscription < 1000);
 
